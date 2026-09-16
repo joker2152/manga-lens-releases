@@ -1,10 +1,10 @@
 {
-  "version": "0.9.1",
-  "notes": "漫画压缩包文件名修复；导入/切换文件失败保护；GitHub Token 作用域限制；更新继续使用 latest.json 静态清单。",
+  "version": "0.9.2",
+  "notes": "Refraction 玻璃拟态界面升级；粒子与内容层优化；英文效果示例。",
   "downloads": {
     "nsis": {
-      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.9.1/Manga.translation_0.9.1_x64-setup.exe",
-      "sha256": "5c3891e60ea7dcfac86806dee0ae738e4a10b0593e0e5529de3fde0e1c01dd2e"
+      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.9.2/Manga.translation_0.9.2_x64-setup.exe",
+      "sha256": "50d87d4238a7b9cf7aa8bec521a6806995d41444bdbdb088f49330c2ab187b48"
     }
   }
 }
