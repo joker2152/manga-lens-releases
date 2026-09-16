@@ -1,10 +1,10 @@
 {
   "version": "0.8.5",
-  "notes": "更新系统修复：不再使用 GitHub REST API，彻底解决 HTTP 403 与匿名限流问题；静态清单 + SHA-256 校验。",
+  "notes": "更新系统修复：不再使用 GitHub REST API，彻底解决 HTTP 403 与匿名限流问题；latest.json 随 Release 发布，检查与下载稳定可用。",
   "downloads": {
     "nsis": {
       "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.8.5/Manga.translation_0.8.5_x64-setup.exe",
-      "sha256": "9e6ea06cbb082386e9ed448472008067bc9b30a48720a89dcd3ab73dda861de8"
+      "sha256": "1673d435b36cec4effbd396f8c8f866aadc18ef81d89d8e832e9e51d1ad0fd22"
     }
   }
 }
