@@ -1,10 +1,10 @@
 {
-  "version": "0.9.4",
-  "notes": "新增双语 PDF 翻译；全新矢量图标；游戏模式界面与论文右键菜单优化。",
+  "version": "0.9.5",
+  "notes": "翻译网络稳定性修复：临时断网/超时自动重试，不再误报“数据无法解析”；错误信息更准确。",
   "downloads": {
     "nsis": {
-      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.9.4/Manga.translation_0.9.4_x64-setup.exe",
-      "sha256": "dcd9187d2ecc10bb68e40dc1d0f069d7b6a5c0bcaba6c4098f4f46f210e7d544"
+      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.9.5/Manga.translation_0.9.5_x64-setup.exe",
+      "sha256": "e2ba86811d931a58cc46fe58e479535544311e5c1c4746bd2031d07c9e7fbcf8"
     }
   }
 }
