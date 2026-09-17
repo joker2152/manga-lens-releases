@@ -1,10 +1,10 @@
 {
-  "version": "0.9.5",
-  "notes": "翻译网络稳定性修复：临时断网/超时自动重试，不再误报“数据无法解析”；错误信息更准确。",
+  "version": "1.0.0",
+  "notes": "论文库翻译状态修复：删除/改路径自动清理；语言设置变更后按新语言重新翻译；失败重试保留已完成段落。",
   "downloads": {
     "nsis": {
-      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v0.9.5/Manga.translation_0.9.5_x64-setup.exe",
-      "sha256": "e2ba86811d931a58cc46fe58e479535544311e5c1c4746bd2031d07c9e7fbcf8"
+      "url": "https://github.com/joker2152/manga-lens-releases/releases/download/v1.0.0/Manga.translation_1.0.0_x64-setup.exe",
+      "sha256": "3be5f15fdb16ba4550b66e987494cd445249c15c2affbd0e8ed73b0479071aef"
     }
   }
 }
